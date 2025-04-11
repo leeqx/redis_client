@@ -15,6 +15,7 @@
 - Optimize the reconnect function.
 - Support pub/sub and transaction.
 - Support scan in an unsafe way.
+- Optimize：in cluster mode，one instance invalid（failover） will take all the cluster request drop 
 
 # License
 
